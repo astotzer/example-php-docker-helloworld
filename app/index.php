@@ -45,7 +45,6 @@
             <li class="active"><a href="#">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
-            <li>Hello World 2</li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -56,7 +55,7 @@
       <div class="starter-template">
         <h1>Hallo <?php echo 'OpenShift Techlab'?></h1>
         <p class="lead">APPUiO Example Dockerfile PHP</p>
-        <p class="lead">test</p> 
+        <p class="lead">test 123</p> 
       </div>
 
     </div><!-- /.container -->
