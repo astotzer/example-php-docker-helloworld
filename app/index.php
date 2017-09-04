@@ -55,7 +55,7 @@
       <div class="starter-template">
         <h1>Hallo <?php echo 'OpenShift Techlab'?></h1>
         <p class="lead">APPUiO Example Dockerfile PHP</p>
-        <p class="lead">test 123</p> 
+        <p class="lead">test 1234</p> 
       </div>
 
     </div><!-- /.container -->
